@@ -2,6 +2,8 @@ import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Main from "./components/NameAbout";
 import About from "./components/About";
+import UsedTechnologies from "./components/Usedtechnologies";
+import Experience from "./components/experience";
 function App() {
   const [count, setCount] = useState(0);
 
@@ -15,6 +17,8 @@ function App() {
         <Navbar />
         <Main />
         <About />
+        <UsedTechnologies/>
+        <Experience/>
       </div>
     </div>
   );

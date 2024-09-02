@@ -10,36 +10,88 @@ In addition to my strong technical background, I have a deep interest in continu
 
 export const ABOUT_TEXT =
   "I am a Full Stack Developer with over three years of experience, primarily specializing in React and Node.js. My expertise lies in building responsive, user-friendly web applications, utilizing React hooks and RxJS for reactive programming. I have been involved in several projects across different domains, such as healthcare, finance, and logistics, leading both frontend and backend development. I thrive in collaborative environments and am passionate about optimizing performance and creating seamless user experiences. My recent work has focused on building applications that facilitate real-time data processing and efficient state management.";
+// export const EXPERIENCE = [
+//   {
+//     year: "2023 - Present",
+//     role: "Software Engineer",
+//     company: "Leuwint Technologies",
+//     description:
+//       "Leading both frontend and backend development for a medical application supporting doctor-patient interactions and appointment management. Developing a doctor-centric React web interface for managing appointments, patient records, and online consultations. Regularly assisting with the Flutter and React teams.",
+//     location: "Palakkad, Kerala",
+//     technologies: [
+//       "React",
+//       "TypeScript",
+//       "Ionic",
+//       "Flutter",
+//       "HTML",
+//       "CSS",
+//       "Node.js",
+//       "RxJs",
+//       "Git",
+//     ],
+//   },
+//   {
+//     year: "2020 - 2022",
+//     role: "Developer / Trainer / Instructor",
+//     company: "Technology Business Incubator (TBI), Jyothi Engineering College",
+//     description:
+//       "Collaborated in frontend development using React for various web projects. Provided training in HTML, CSS, JavaScript, and React to students. Designed and developed responsive frontend components enhancing user experience and compatibility across browsers.",
+//     location: "Thrissur, Kerala",
+//     technologies: ["React", "HTML", "CSS", "JavaScript"],
+//   },
+// ];
+
+
 export const EXPERIENCE = [
   {
-    year: "2023 - Present",
+    year: "Mar 2023 - Present",
     role: "Software Engineer",
     company: "Leuwint Technologies",
     description:
-      "Leading both frontend and backend development for a medical application supporting doctor-patient interactions and appointment management. Developing a doctor-centric React web interface for managing appointments, patient records, and online consultations. Regularly assisting with the Flutter and React teams.",
+      "Currently leading both frontend and backend development for a medical application supporting doctor-patient interactions and appointment management. Developing a doctor-centric React web interface for managing appointments, patient records, and online consultations. Regularly assisting with the Flutter and React teams.",
     location: "Palakkad, Kerala",
     technologies: [
       "React",
       "TypeScript",
       "Ionic",
       "Flutter",
-      "HTML",
-      "CSS",
+      "TailwindCss",
       "Node.js",
       "RxJs",
+      "Redux",
       "Git",
     ],
   },
   {
+    year: "May 2023 - Mar2024",
+    role: "Junior Software Engineer",
+    company: "Leuwint Technologies",
+    description:
+      "Contributed to the development of both frontend and backend for various web applications. Assisted in building RESTful APIs and supported the integration of frontend components with backend services. Worked on refining and optimizing web interfaces using React and TypeScript.",
+    location: "Palakkad, Kerala",
+    technologies: ["React", "TypeScript", "Node.js", "RxJs", "HTML", "CSS", "Redux"],
+  },
+  {
+    year: "Jan 2023 - Apr 2023",
+    role: "Trainee Software Engineer",
+    company: "Leuwint Technologies",
+    description:
+      "Participated in the development of web applications while learning and improving skills in frontend and backend technologies. Assisted senior developers in creating responsive and efficient interfaces using React and contributed to backend services with Node.js.",
+    location: "Palakkad, Kerala",
+    technologies: ["React", "Ionic", "Angular", "HTML", "CSS", "JavaScript", "Node.js"],
+  },
+  {
     year: "2020 - 2022",
     role: "Developer / Trainer / Instructor",
-    company: "Technology Business Incubator (TBI), Jyothi Engineering College",
+    company: "TATA - Integrated Industrial Incubation Centre (TATA - IIIC) & Technology Business Incubator (TBI), Jyothi Engineering College",
     description:
       "Collaborated in frontend development using React for various web projects. Provided training in HTML, CSS, JavaScript, and React to students. Designed and developed responsive frontend components enhancing user experience and compatibility across browsers.",
     location: "Thrissur, Kerala",
     technologies: ["React", "HTML", "CSS", "JavaScript"],
   },
 ];
+
+
 export const PROJECT = [
   {
     title: "Patient-Doctor Medical Application",
