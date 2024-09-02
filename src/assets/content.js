@@ -3,8 +3,11 @@
 // import project3 from "../assets/projects/project-3.jpg";
 // import project4 from "../assets/projects/project-4.jpg";
 
-export const MAIN_CONTENT =
-  `I am a dedicated and passionate Software Engineer with over three years of experience, focusing on both frontend and backend development. I have a strong background in creating dynamic and user-centric web applications using React, Node.js, and RxJS. With a deep interest in technology and a commitment to continuous learning, I strive to deliver high-quality solutions across various domains, including healthcare, finance, and logistics.`;
+export const MAIN_CONTENT = 
+  `I am a dedicated and passionate Software Engineer with over three years of experience, specializing in both frontend and backend development. Throughout my career, I have built dynamic and user-centric web applications using modern technologies like React, Node.js, and RxJS, consistently striving to enhance the user experience and streamline operations. My expertise extends beyond coding to include problem-solving, optimization, and the development of scalable solutions that meet client requirements in fast-paced environments. 
+
+In addition to my strong technical background, I have a deep interest in continuously learning new technologies, which enables me to stay at the forefront of industry trends. I thrive on tackling complex challenges and delivering solutions that not only meet functional requirements but also focus on performance, security, and maintainability. Whether it's healthcare, finance, or logistics, I am committed to building impactful products that solve real-world problems while driving innovation and business success.`; 
+
 export const ABOUT_TEXT =
   "I am a Full Stack Developer with over three years of experience, primarily specializing in React and Node.js. My expertise lies in building responsive, user-friendly web applications, utilizing React hooks and RxJS for reactive programming. I have been involved in several projects across different domains, such as healthcare, finance, and logistics, leading both frontend and backend development. I thrive in collaborative environments and am passionate about optimizing performance and creating seamless user experiences. My recent work has focused on building applications that facilitate real-time data processing and efficient state management.";
 export const EXPERIENCE = [

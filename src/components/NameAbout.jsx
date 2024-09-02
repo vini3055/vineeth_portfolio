@@ -12,7 +12,7 @@ function Main() {
             <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
               Full Stack Developer
             </span>
-            <p className="text-black my-3 max-w-xl py-6 font-light tracking-tighter">
+            <p className=" my-3 max-w-xl py-6 font-light tracking-tighter text-neutral-500">
               {ABOUT_TEXT}
             </p>
           </div>
