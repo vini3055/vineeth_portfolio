@@ -17,9 +17,15 @@ function Experience() {
                 <span className="text-neutral-800">{experience.role}</span> -{" "}
                 <span className="text-neutral-500">{experience.company}</span>
               </h6>
-              <p className="text-neutral-400">
-                {experience.description}
-              </p>
+              <p className="mb-3 text-neutral-400">{experience.description}</p>
+              {experience.technologies.map((technologies, index) => (
+                <span
+                  key={index}
+                  className="mr-2 mt-2  rounded px-2 py-1 bg-neutral-400 text-sm font-medium text-blue-50"
+                >
+                  {technologies}
+                </span>
+              ))}
             </div>
           </div>
         ))}
