@@ -1,10 +1,10 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+// import project1 from "../assets/projects/project-1.jpg";
+// import project2 from "../assets/projects/project-2.jpg";
+// import project3 from "../assets/projects/project-3.jpg";
+// import project4 from "../assets/projects/project-4.jpg";
 
 export const MAIN_CONTENT =
-  "I am a dedicated and passionate Software Engineer with over three years of experience, focusing on both frontend and backend development. I have a strong background in creating dynamic and user-centric web applications using React, Node.js, and RxJS. With a deep interest in technology and a commitment to continuous learning, I strive to deliver high-quality solutions across various domains, including healthcare, finance, and logistics.";
+  `I am a dedicated and passionate Software Engineer with over three years of experience, focusing on both frontend and backend development. I have a strong background in creating dynamic and user-centric web applications using React, Node.js, and RxJS. With a deep interest in technology and a commitment to continuous learning, I strive to deliver high-quality solutions across various domains, including healthcare, finance, and logistics.`;
 export const ABOUT_TEXT =
   "I am a Full Stack Developer with over three years of experience, primarily specializing in React and Node.js. My expertise lies in building responsive, user-friendly web applications, utilizing React hooks and RxJS for reactive programming. I have been involved in several projects across different domains, such as healthcare, finance, and logistics, leading both frontend and backend development. I thrive in collaborative environments and am passionate about optimizing performance and creating seamless user experiences. My recent work has focused on building applications that facilitate real-time data processing and efficient state management.";
 export const EXPERIENCE = [
